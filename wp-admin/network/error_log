@@ -1,0 +1,1 @@
+[15-Nov-2025 20:11:22 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/tramitesdiosdado/public_html/wp-content/plugins/litespeed-cache/lib/css_js_min/pathconverter/converter.cls.php on line 34

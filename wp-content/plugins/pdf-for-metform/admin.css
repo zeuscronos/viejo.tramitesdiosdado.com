@@ -1,0 +1,110 @@
+.pdf4m.wrap {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+.pdf4m  h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.pdf4m  h3 {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.pdf4m .form{
+    text-align: left;
+    margin: auto;
+    width: 250px;
+    background-color: #fff;
+    padding: 15px;
+    margin-top: 15px;
+    border-radius: 7px;
+}
+
+.pdf4m .form .input-control{
+    display: block;
+    font-weight: normal;
+    padding-top: 5px;
+}
+.pdf4m .form span{
+    font-size: 16px;
+    padding-left: 7px;
+}
+.pdf4m .form input,
+.pdf4m .form select{
+    width: 100%;
+}
+.pdf4m .form label{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 7px;
+    font-weight: bold;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+.pdf4m  p {
+    color: #666;
+    font-size: 16px;
+}
+
+.pdf4m .btn{
+    font-size: 14px;
+    color: #fff;
+    background-color: #4CAF50;
+    padding: 10px 30px;
+    border: 2px solid #4CAF50;
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+    border-radius: 50px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 45px;
+    transition : 800ms;
+    transform: translateY(0);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+}
+
+.pdf4m .btn:hover{
+    transition : 800ms;
+    padding: 10px 50px;
+    transform : translateY(-0px);
+    background-color: #fff;
+    color: #4CAF50;
+    border: solid 2px #4CAF50;
+}
+.pdf4m .btn:disabled{
+    visibility: hidden;
+}
+.pdf4m .list-fonts{
+    display: none;
+    width: 290px;
+    height: 200px;
+    resize: none;
+    background: #2c2c2c;
+    border: #222;
+    color: #f2f2f2;
+    padding: 15px;
+    margin: auto;
+}
+
+.pdf4m .progress-bar {
+    width: 50%;
+    background-color: #e3e3e3;
+    border-radius: 4px;
+    height: 10px;
+    margin: 15px auto 15px auto;
+    display: none;
+}
+
+.pdf4m .progress-bar-fill {
+    background-color: #4CAF50;
+    height: 100%;
+    border-radius: 4px;
+    transition: width 0.3s ease;
+}

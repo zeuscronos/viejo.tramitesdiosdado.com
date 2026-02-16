@@ -1,0 +1,5 @@
+wp-content/litespeed
+wp-content/debug.log
+wp-content/.litespeed_conf.dat
+wp-content/object-cache.php
+wp-content/uploads/elementor/tmp
