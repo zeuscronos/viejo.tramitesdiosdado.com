@@ -1,8 +1,8 @@
 # Database environment variables
 SetEnv WORDPRESS_DB_HOST "localhost:3306"
-SetEnv WORDPRESS_DB_NAME "diosdado_1"
-SetEnv WORDPRESS_DB_USER "diosdado_1"
-SetEnv WORDPRESS_DB_PASSWORD "*G8)b8UTnyy@iG1C"
+SetEnv WORDPRESS_DB_NAME "diosdado_2"
+SetEnv WORDPRESS_DB_USER "diosdado_2"
+SetEnv WORDPRESS_DB_PASSWORD "BOKCoqo)jixp9s9W"
 
 # BEGIN LSCACHE
 ## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##

@@ -98,8 +98,8 @@ define( 'WP_DEBUG_LOG', true );
 /* Add any custom values between this line and the "stop editing" line. */
 define('WP_DEFAULT_THEME', 'astra');
 
-define('WP_HOME', 'https://www.tramitesdiosdado.com');
-define('WP_SITEURL', 'https://www.tramitesdiosdado.com');
+define('WP_HOME', 'https://viejo.tramitesdiosdado.com');
+define('WP_SITEURL', 'https://viejo.tramitesdiosdado.com');
 
 /* That's all, stop editing! Happy publishing. */
 /** Absolute path to the WordPress directory. */

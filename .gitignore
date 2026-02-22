@@ -1,6 +1,6 @@
+*.bak
 _debug/**
 !_debug/database/database.sql
-error_log
 wp-content/litespeed
 wp-content/debug.log
 wp-content/.litespeed_conf.dat
